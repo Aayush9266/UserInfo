@@ -19,6 +19,15 @@ Users can **swipe** to navigate between different user profiles and **toggle dar
 
 
 ---
+## **📸 App Screenshots**
+### **🌞 Light Mode**
+![Light Mode](https://github.com/Aayush9266/UserInfo/blob/main/assets/light-mode.png)
+
+### **🌙 Dark Mode**
+![Dark Mode](https://github.com/Aayush9266/UserInfo/blob/main/assets/dark-mode.png)
+
+
+---
 
 ## **✨ Features**
 ✅ **User Profile Display** – View user details (ID, UID, Name, Username, Email, Password, Avatar).  
