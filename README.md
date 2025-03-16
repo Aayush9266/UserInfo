@@ -9,7 +9,7 @@ Users can **swipe** to navigate between different user profiles and **toggle dar
 
 ## **📷 Download & Demo**
 ### **Scan QR Code to Download the App**
-_(Attach QR code image here)_
+![Download QR Code](https://github.com/Aayush9266/UserInfo/blob/main/assets/Screenshot%202025-03-16%20232044.png)
 
 ### **📽️ Watch the App Demo**
 [![Watch the demo](https://img.shields.io/badge/🎬-Watch%20Demo-red?style=for-the-badge)](your-video-demo-link)
