@@ -13,7 +13,7 @@ Users can **swipe** to navigate between different user profiles and **toggle dar
 🔗 **[Download the App](https://expo.dev/accounts/ayushasati04/projects/UserInfo/builds/553297ca-2e84-4cda-a30f-007943a3f347)**  
 
 ### **📽️ Watch the App Demo**
-[![Watch the demo](https://drive.google.com/file/d/1iqErpWxD5d5K3I6g7njVTnhi_ZuIs039/view?usp=drivesdk)
+🔗 **[Watch the Video](https://drive.google.com/file/d/1iqErpWxD5d5K3I6g7njVTnhi_ZuIs039/view?usp=drivesdk)**  
 
 
 
