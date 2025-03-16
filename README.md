@@ -1,13 +1,54 @@
-# Welcome to your Expo app 👋
+# 📱 User Information App 🚀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the **User Information App**, a React Native mobile application built using **Expo**.  
+This app fetches user data from an API and displays it in a clean and interactive UI.  
 
-## Get started
+Users can **swipe** to navigate between different user profiles and **toggle dark/light mode** for a personalized experience.
 
-1. Install dependencies
+---
+
+## **📷 Download & Demo**
+### **Scan QR Code to Download the App**
+_(Attach QR code image here)_
+
+### **📽️ Watch the App Demo**
+[![Watch the demo](https://img.shields.io/badge/🎬-Watch%20Demo-red?style=for-the-badge)](your-video-demo-link)
+
+---
+
+## **✨ Features**
+✅ **User Profile Display** – View user details (ID, UID, Name, Username, Email, Password, Avatar).  
+✅ **Swipe Navigation** – Swipe left/right to browse user profiles.  
+✅ **Dark & Light Mode** – Toggle between themes for a better experience.  
+✅ **API Integration** – Dynamically fetches user data from an API.  
+✅ **Modern UI** – Clean, smooth, and responsive React Native interface.  
+
+---
+
+## **🛠️ Tech Stack**
+- **React Native** (Expo)
+- **Expo Router** (Navigation)
+- **Tailwind CSS** (Styling)
+- **React Native Gesture Handler** (Swipe functionality)
+- **TypeScript** (For type safety)
+- **API Fetching** (Random Data API)
+
+---
+
+## **🚀 Installation & Setup**
+Follow these steps to **run the app on your local machine**:
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/user-info-app.git
+cd user-info-app
+```
+
+
+1. Install Dependencies
 
    ```bash
-   npm install
+    npm install
    ```
 
 2. Start the app
@@ -15,6 +56,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+
+
 
 In the output, you'll find options to open the app in a
 
@@ -25,26 +68,6 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+👨‍💻 Author
+Developed by Aayush Khirraiyya
+📧 Contact: ayushasati04@gmail.com
