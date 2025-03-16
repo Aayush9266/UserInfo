@@ -13,6 +13,9 @@ Users can **swipe** to navigate between different user profiles and **toggle dar
 
 ### **📽️ Watch the App Demo**
 [![Watch the demo](https://img.shields.io/badge/🎬-Watch%20Demo-red?style=for-the-badge)](your-video-demo-link)
+🔗 **[Download the App](https://expo.dev/accounts/ayushasati04/projects/UserInfo/builds/553297ca-2e84-4cda-a30f-007943a3f347)**  
+
+
 
 ---
 
