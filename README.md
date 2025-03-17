@@ -53,7 +53,7 @@ Follow these steps to **run the app on your local machine**:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/user-info-app.git
+git clone https://github.com/Aayush9266/UserInfo.git
 cd user-info-app
 ```
 
